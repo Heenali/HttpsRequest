@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Jan 30 12:00:44 IST 2018
+1.base=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.file=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=ANDROID_RESOURCE
+2.set=DEX
+2.file=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+count=5
+1.set=ANDROID_RESOURCE
+3.base=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+0.file=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.base=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_

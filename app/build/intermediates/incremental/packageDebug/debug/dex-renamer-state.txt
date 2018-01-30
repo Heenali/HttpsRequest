@@ -1,0 +1,4 @@
+#Tue Jan 30 12:00:44 IST 2018
+base.0=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\Heenali_AllBackup\\Done_examples\\HttpsRequest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
